@@ -248,7 +248,7 @@
     "binaryen" "100.0.0-nightly.20210413"
     "long" "^4.0.0"
 
-"assemblyscript@^0.19.3":
+"assemblyscript@^0.19.23", "assemblyscript@^0.19.3":
   "integrity" "sha512-fwOQNZVTMga5KRsfY80g7cpOl4PsFQczMwHzdtgoqLXaYhkhavufKb0sB0l3T1DUxpAufA0KNhlbpuuhZUwxMA=="
   "resolved" "https://registry.npmjs.org/assemblyscript/-/assemblyscript-0.19.23.tgz"
   "version" "0.19.23"

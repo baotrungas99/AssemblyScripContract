@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/baotrungas99/AssemblyScripContract/issues"
   },
-  "homepage": "https://github.com/baotrungas99/AssemblyScripContract#readme"
+  "homepage": "https://github.com/baotrungas99/AssemblyScripContract#readme",
+  "dependencies": {
+    "assemblyscript": "^0.19.23"
+  }
 }

@@ -1,0 +1,25 @@
+{
+  "name": "assemblyscripcontract",
+  "version": "1.0.0",
+  "description": "My frist smart contract",
+  "main": "index.js",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baotrungas99/AssemblyScripContract.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "Chris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baotrungas99/AssemblyScripContract/issues"
+  },
+  "homepage": "https://github.com/baotrungas99/AssemblyScripContract#readme"
+}

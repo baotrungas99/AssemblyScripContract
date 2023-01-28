@@ -1,6 +1,6 @@
 import {Context, storage} from "near-sdk-as";
 
-class Greating {
+export class Greating {
     getGreeting(accountId : string): string | null {
         return storage.get<string>(accountId, "Greeting not available");
     }

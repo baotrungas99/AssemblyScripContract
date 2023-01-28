@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/baotrungas99/AssemblyScripContract#readme",
   "dependencies": {
+    "asbuild": "^0.2.0",
     "assemblyscript": "^0.19.23"
   }
 }
